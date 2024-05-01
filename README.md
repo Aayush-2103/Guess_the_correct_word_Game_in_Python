@@ -1,12 +1,29 @@
 <h1>
-Guess the correct word Game in Python
+Wizard's Word Guess
 </h1>
 
+
+<h2>Description</h2>
 <p>
-It is another fun game made using the randint function of the random module. In this game, the user needs to blindly enter the alphabet through which the user gets to the word. You will have limited chances and it would be fun to guess the correct word before you are out of chances! All the best!!
-<br>
+Dive into the magical world of words with Wizard's Word Guess! This Python project challenges players to put their linguistic skills to the test as they embark on an enchanting journey of guessing words. With a captivating interface and a myriad of word puzzles to solve, Wizard's Word Guess offers endless entertainment for players of all ages. Whether you're a seasoned wordsmith or just starting your linguistic adventure, join the quest and see if you have what it takes to become the ultimate Word Wizard!
+<br><br>
 Author- Aayush Talukdar
 <br>
 Language- Python
 <br>
-<hr>
+
+<h2>Key Features:</h2>
+<p>
+🎉 User-friendly interface for interactive and exciting gameplay!
+  <br>
+📚 Learn new words and expand your vocabulary with every round!
+  <br>
+🔁 Replayable for endless fun and learning opportunities!
+  <br>
+📝 Keep track of incorrect guesses to improve accuracy over time!
+  <br>
+💡 Get a helpful hint when you're stuck, ensuring a smooth gameplay experience!
+  <br>
+👶👵 Suitable for all ages, making learning fun for everyone!
+</p>
+
