@@ -62,12 +62,12 @@ def play_game():
     if play_again.lower() == "yes":
         play_game()
 
-if __name__ == "__main__":
-    name=input('Enter your name:- ')
-    print('Good Luck!', name)
-    print('Guess the word\n')
-    print('\t\t**RULE BOOK**')
-    print('1) Enter only lowercase single alphabet, input like "swn" is invalid')
-    print('2) You have 10 tries to accomplish you target.')
-    print('3) It is guaranted that the lucky word is in lowercase only.\n\n')
-    play_game()
+
+name=input('Enter your name:- ')
+print('Good Luck!', name)
+print('Guess the word\n')
+print('\t\t**RULE BOOK**')
+print('1) Enter only lowercase single alphabet, input like "swn" is invalid')
+print('2) You have 10 tries to accomplish you target.')
+print('3) It is guaranted that the lucky word is in lowercase only.\n\n')
+play_game()
