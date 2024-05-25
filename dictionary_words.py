@@ -3,7 +3,7 @@ import random
 
 def generate_random_word():
     english_dict = get_dict()
-    random_word = random.choice(list(english_dict.keys()))
+    random_word = random.choice(list(english_dict.keys())).lower()
     meaning = english_dict[random_word]
 
     word_dict = {
